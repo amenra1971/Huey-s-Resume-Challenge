@@ -1,4 +1,4 @@
-The Cloud Resume Challenge is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career as an AWS Cloud Engineer. 
+The Cloud Resume Challenge is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career as a Cloud Engineer. 
 The Cloud Resume Challenge was a unique, challenging, and relevant project to add to my portfolio, host my resume, and demonstrate a variety of skills employers look for in applicants. The challenge not only requires you to build a resume programmatically, using HTML and CSS, but host that resume, integrate a database backend, connect resources serverless, and implement industry best practices through automation and infrastructure as code.
 The Challenge Components includes:
 1. Get Certification
