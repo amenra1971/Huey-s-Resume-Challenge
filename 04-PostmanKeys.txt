@@ -1,0 +1,16 @@
+resource "aws_iam_user" "postman_user" {
+  name = "postman-user"
+}
+
+resource "aws_iam_access_key" "postman_access_key" {
+  user = aws_iam_user.postman_user.name
+}
+
+output "access_key_id" {
+  value = aws_iam_access_key.postman_access_key.id
+}
+
+output "secret_access_key" {
+  value = aws_iam_access_key.postman_access_key.secret
+  sensitive = true
+}
