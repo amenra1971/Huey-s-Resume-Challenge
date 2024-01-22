@@ -20,3 +20,6 @@ The Challenge Components includes:
 17. CI/CD (Front End
     ![HueysCloudResumeDrawing](https://github.com/amenra1971/Huey-s-Resume-Challenge/assets/143852344/df225ee0-1d19-402b-8a8c-0b841d3d2762)
  
+I've been working on my serverless website resume through terraform using IAM roles and policies, s3 buckets, cloudfront, ACM, cloudwatch, Route 53. lambda functions, Rest Api gateway and DynamoDB. 
+The hit counter on the side on the orange strip at the bottom is powered by the Rest Api gateway, lambda, and dynamodb. I used cloudwatch and the third party Postman to mitigate my api and lambda errors through the cloudshell command line as  shown. 
+This creates a serveless web application. In this case, a resume was created.  The logic and diagram is above.  You can view my resume at https://resumeforhuey.click
